@@ -1,6 +1,8 @@
 ## Turing Machine Game
 
 ### Instructions
+Begin at the head. 
+
 If you see a 0, change it to a 1 and move right.
 
 If you see a 1, change it to a 0 and move right.
@@ -22,7 +24,11 @@ A B C D
 Head = B
 
 #### Starting Tape 3
-0 1 1 1 0 0 0 1 1 1 0 1
+A B C D E F G H
+
+0 1 1 1 0 0 0 1 
+
+Head = H
 
 
 ## Representing Numbers in 1s and 0s
@@ -70,7 +76,15 @@ Example:
 
 ASCII-ized: _____
 
-ASCII-ized: _____
+Binary-ized: _____
 
 
-## Cryptography
+## Off by One Error
+
+Thought exercise 1: Imagine you have a fence that is 30 feet long, and one fencepost every 3 feet. How many fenceposts do you have?
+
+NOTE: This example is so famous that it has a wikipedia article: https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error
+
+Thought exercise 2: Imagine you see 10 ducklings crossing the road in a line. How many ducks are between ducks 4 and 8?
+
+The conclusion? Make sure you understand whether your first and last items matter in your calculation! 

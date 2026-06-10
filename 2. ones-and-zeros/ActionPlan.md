@@ -15,4 +15,4 @@ We'll take the Binary section one step further and try to represent words using.
 
 
 ## Off-By-One Errors
-Finally, we'll look at catastrophic events that occurred because an algorithm supplied a 0 when we expected a 1 (or vice versa).
+Finally, we'll look at unexpected behavior that can occur because an algorithm supplied a 0 when we expected a 1 (or vice versa).
