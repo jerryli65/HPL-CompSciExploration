@@ -1,6 +1,6 @@
 ## What makes an algorithm?
 
-An algorithm can be split into two parts:
+An algorithm can be split into two parts (and honestly, the first part is a nice-to-have, not required):
 
 Part 1: The Problem Statement
 
