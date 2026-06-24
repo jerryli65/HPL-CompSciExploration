@@ -1,14 +1,25 @@
-## Algorithm 1: Walking Tutorial
-Your task is to create a tutorial on how to walk from one side of the room to the other. 
+## What makes an algorithm?
+
+An algorithm can be split into two parts:
+
+Part 1: The Problem Statement
+
+Part 2: The Characteristics: Input, Instructions, Output.
+
+## Algorithm 1: Clapping Tutorial
+Your task is to create a tutorial on how to clap.
 
 The group will take turns following each tutorial. Good luck!
 
 
-## What makes an algorithm?
-Three things: Input, Instructions, Output.
+## Algorithm Anatomy
 
-What are the inputs, instructions, and outputs for the following algorithms?
+What is the anatomy for the following algorithms?
 
 1. Chocolate Chip Cookie (<1:00): https://www.youtube.com/shorts/fYPqQVV9L-k
 
 2. Google's Search Engine (3:14): https://www.youtube.com/watch?v=mFGUeVdSQJw
+
+## Examples of Highly Researched Computer Science Algorithms That You Accidentally Do In Real Life
+
+What is an Algorithm (4:35) : https://www.youtube.com/watch?v=e_WfC8HwVB8
