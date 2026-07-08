@@ -11,22 +11,23 @@ Turing Machine (1:33) https://www.youtube.com/watch?v=KN4O-l5aLwA
 
 ##### Represent a ... in a Counting System
 
-###### ..... Numbers
-
+###### ... Number
 Binary and Base Systems (5:19): https://www.youtube.com/watch?v=LpuPe81bc2w
 
-###### ..... Words
+###### ... Word
 
 ASCII (2:10) https://www.youtube.com/watch?v=zB85kTs-sEw
 
-###### .... Colors
+###### ... Color
 
 RGB (0:33) https://www.youtube.com/watch?v=CrBFNLvoL6A
 
 #### Activities
 1s and 0s activities.md.
 
-#### Advanced Concept
+#### Advanced Concept (if time)
+Off-By-One Errors: 
+
 Subtraction.
 
 ## Break Time!
