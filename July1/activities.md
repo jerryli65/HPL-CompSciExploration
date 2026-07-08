@@ -1,4 +1,6 @@
 ## First Half
+### Intro Stuff
+
 ### Map of Computer Science
 
 ### The Four Parts of Computer Science (whiteboard)
