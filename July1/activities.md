@@ -4,18 +4,16 @@
 
 ### The Four Parts of Computer Science (whiteboard)
 
-### Special Topic \#1: Cryptography
+### Special Topic \#1: What's a Computer?
 
 #### Videos
-What is Cryptography (3:45) https://www.youtube.com/watch?v=fMACmQ9aLl4
-
-Caesar Cipher (2:35) https://www.youtube.com/watch?v=sMOZf4GN3oc
+What's a Computer? 
 
 #### Activities
-Do the activities.md for Cryptography.
+1s and 0s activities.md.
 
 #### Advanced Concept
-Diffie-Hellman Key Exchange (9:08) https://www.youtube.com/watch?v=85oMrKd8afY
+Subtraction.
 
 ## Break Time!
 
