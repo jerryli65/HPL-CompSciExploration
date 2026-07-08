@@ -4,17 +4,17 @@
 
 ### Special Topic #2: Cryptography
 
-### Videos
+#### Videos
 
-#### What is Cryptography (3:45) https://www.youtube.com/watch?v=fMACmQ9aLl4
+What is Cryptography (3:45) https://www.youtube.com/watch?v=fMACmQ9aLl4
 
-#### Caesar Cipher (2:35) https://www.youtube.com/watch?v=sMOZf4GN3oc
+Caesar Cipher (2:35) https://www.youtube.com/watch?v=sMOZf4GN3oc
 
-### Activities
+#### Activities
 
 Do the activities.md for Cryptography.
 
-### Advanced Concept
+#### Advanced Concept
 
 Diffie-Hellman Key Exchange (9:08) https://www.youtube.com/watch?v=85oMrKd8afY
 
