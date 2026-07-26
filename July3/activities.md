@@ -16,4 +16,4 @@ The Pigeonhole Principle (8:24) only the first 6:10 https://www.youtube.com/watc
 
 ## Second Half
 
-TicTacToe in Python
+5-Function Calculator in Python
